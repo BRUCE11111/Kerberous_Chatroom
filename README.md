@@ -2,7 +2,7 @@
 
 China University of Geoscicence Home Work
 
-This home work just costs me two days to complete it .I got A+(99 points) in the test finally.
+This home work just costs me two days to complete it .I got A+(99 points) in the test finally.There are nearly 5K lines of code.
 
 ## <font color="red">If you want to copy my homework directly,You will run the risk of not passing the exam.</font> 
 
